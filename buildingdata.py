@@ -1,4 +1,4 @@
-pop = 9068
+pop = 16218
 import json
 file = 'FEMA_east_midtown_buildings_with_address_zip_city_state.json'
 f = open(file)
